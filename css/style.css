@@ -1,0 +1,13 @@
+#inputs div {
+    width: 49%;
+    float: left;
+}
+#inputs, #acciones {
+    float: left;
+    width: 100%;
+}
+
+#results {
+    float: left;
+    margin-top: 2em;
+}
